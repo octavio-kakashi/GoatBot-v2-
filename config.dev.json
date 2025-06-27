@@ -12,7 +12,7 @@
 	"antiInbox": false,
 	"language": "en",
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-	"nickNameBot": "╾⸻⟡⟡ 『ᏦᎽᎾᎿᎯᏦᎯ』 ⟡⟡⸻╼",
+	"nickNameBot": "╾⸻⟡⟡ 『𝐊𝐀𝐊𝐀𝐒𝐇𝐈 🥱𝐁𝐎𝐓 』 ⟡⟡⸻╼",
 	"prefix": "+",
 	"adminOnly": {
 		"enable": false,
@@ -22,6 +22,7 @@
 		"61577043882265",
 		""
 	],
+	"owner": ["61569035366438"].
 	"whiteListMode": {
 		"enable": false,
 		"whiteListIds": [],
